@@ -53,7 +53,7 @@ const translations = {
         "terms_section_6_title": "6. Changes to Terms",
         "terms_section_6": "We reserve the right to modify or replace these Terms at any time. Continued use of the application after changes constitute acceptance of the new terms.",
         "terms_section_7_title": "7. Contact Information",
-        "terms_section_7": "If you have any questions regarding these Terms, please reach out to us at support@pixtidy.app."
+        "terms_section_7": "If you have any questions regarding these Terms, please reach out to us at nate310242@gmail.com."
     },
     vi: {
         "badge": "✨ Xử lý trên thiết bị & Riêng tư",
@@ -109,7 +109,7 @@ const translations = {
         "terms_section_6_title": "6. Thay đổi điều khoản",
         "terms_section_6": "Chúng tôi có quyền sửa đổi hoặc thay thế các Điều khoản này bất kỳ lúc nào. Việc tiếp tục sử dụng ứng dụng sau khi điều khoản thay đổi đồng nghĩa với việc bạn chấp nhận điều khoản mới.",
         "terms_section_7_title": "7. Thông tin liên hệ",
-        "terms_section_7": "Nếu có câu hỏi về các Điều khoản này, vui lòng liên hệ support@pixtidy.app."
+        "terms_section_7": "Nếu có câu hỏi về các Điều khoản này, vui lòng liên hệ nate310242@gmail.com."
     },
     ja: {
         "badge": "✨ デバイス内処理・プライベート",
@@ -165,7 +165,7 @@ const translations = {
         "terms_section_6_title": "6. 規約の変更",
         "terms_section_6": "当社は、本規約をいつでも変更または置き換える権利を有します。変更後もアプリの使用を続けた場合、新しい規約に同意したものとみなされます。",
         "terms_section_7_title": "7. お問い合わせ先",
-        "terms_section_7": "本規約に関するご質問は、support@pixtidy.app までお問い合わせください。"
+        "terms_section_7": "本規約に関するご質問は、nate310242@gmail.com までお問い合わせください。"
     }
 };
 
